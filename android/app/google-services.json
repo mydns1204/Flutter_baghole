@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809544618506",
+    "project_id": "baghole-b821a",
+    "storage_bucket": "baghole-b821a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809544618506:android:3fe6d0a0d634fb58b945f3",
+        "android_client_info": {
+          "package_name": "com.mycompany.baghole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBJAqSEdQWoDfwmRqc-aoNuk2x3Z-kjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
